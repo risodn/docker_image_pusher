@@ -12,3 +12,4 @@ emby/embyserver
 zadam/trilium
 nriver/trilium-cn
 risodn/minimalist-web-notepad
+6053537/portainer-ce
