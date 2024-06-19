@@ -15,3 +15,4 @@ risodn/minimalist-web-notepad
 6053537/portainer-ce
 xhofe/alist
 filebrowser/filebrowser
+jdreinhardt/minimalist-web-notepad
